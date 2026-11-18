@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sushant (Sean)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+%26+IT;DevOps+Enthusiast;AWS+Solutions+Architect+(in+progress);Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+%26+IT;AWS+Certified+Solutions+Architect;Terraform+%26+Infrastructure+as+Code;Always+Learning" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,11 +12,24 @@ I'm an IT and cloud infrastructure professional who enjoys building reliable, au
 
 - 🌩️ I work across **cloud infrastructure, virtualization, and IT operations**
 - 🛠️ Hands-on with **Docker, Terraform, AWS, Proxmox, and CI/CD pipelines**
+- 🔨 Currently building a **highly available three-tier app on AWS**, all in Terraform ([aws-three-tier-app](https://github.com/Sushantsth21/aws-three-tier-app))
 - 🎓 B.S. in Computer Information Technology — Northern Kentucky University
-- 📜 **CompTIA Network+** certified · **AWS Solutions Architect Associate** in progress
+- 📜 **AWS Certified Solutions Architect – Associate** · **CompTIA Network+**
 - 🔭 Currently exploring graduate study in cloud infrastructure & security
 - 💬 Ask me about virtualization, self-hosting, IaC, or homelab setups
 - 📫 Open to new opportunities in IT / cloud / infrastructure roles
+
+---
+
+## 📜 Certifications
+
+<!-- Replace YOUR_CREDLY_BADGE_URL with the link to your AWS badge on Credly. -->
+<p align="left">
+  <a href="YOUR_CREDLY_BADGE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS Certified Solutions Architect – Associate"/>
+  </a>
+  <img src="https://img.shields.io/badge/CompTIA-Network+-C8202F?style=for-the-badge" alt="CompTIA Network+"/>
+</p>
 
 ---
 
@@ -76,16 +89,15 @@ I'm an IT and cloud infrastructure professional who enjoys building reliable, au
 ## 🌟 Featured Projects
 
 <!--
-  Replace REPO_NAME_1 and REPO_NAME_2 below with the actual names of two
-  repositories you want to feature (exactly as they appear in the repo URL).
-  Add or remove cards as needed.
+  Replace REPO_NAME_2 with a second repository you want to feature
+  (exactly as it appears in the repo URL), or delete that card.
 -->
 <div align="center">
-  <a href="https://github.com/Sushantsth21/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushantsth21&repo=REPO_NAME_1&theme=tokyonight" alt="Repo Card">
+  <a href="https://github.com/Sushantsth21/aws-three-tier-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushantsth21&repo=aws-three-tier-app&theme=tokyonight" alt="aws-three-tier-app"/>
   </a>
   <a href="https://github.com/Sushantsth21/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushantsth21&repo=REPO_NAME_2&theme=tokyonight" alt="Repo Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushantsth21&repo=REPO_NAME_2&theme=tokyonight" alt="Repo Card"/>
   </a>
 </div>
 
@@ -94,7 +106,7 @@ I'm an IT and cloud infrastructure professional who enjoys building reliable, au
 ## 🤝 Let's Connect
 
 <!--
-  Fill in the URLs below. Delete any badge you don't want to use (e.g. Twitter).
+  Fill in the URLs below. Delete any badge you don't want to use.
 -->
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
